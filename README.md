@@ -14,11 +14,6 @@ I am a software developer and entrepreneur passionate about building technology 
 
 ### 🛠️ Tech Stack & Tools
 
-**Mobile Development**  
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
 **Web & Backend**  
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,6 +25,11 @@ I am a software developer and entrepreneur passionate about building technology 
 ![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-b71c1c?style=for-the-badge)
 ![Compliance](https://img.shields.io/badge/Compliance-1565c0?style=for-the-badge)
 ![AppSec](https://img.shields.io/badge/Web_App_Security-00695c?style=for-the-badge)
+
+**Mobile Development**  
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
 
