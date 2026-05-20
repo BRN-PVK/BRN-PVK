@@ -36,7 +36,7 @@ I am a software developer and entrepreneur passionate about building technology 
 ### 📈 Highlighted Projects
 
 *   🎫 **Use Ingresso:** A secure and scalable ticketing platform. My work involves full-cycle product development, third-party integrations, and business development.
-*   💺 **Seatschart:** An interactive seat mapping and selection solution designed to optimize the user experience during the ticket purchasing process.
+*   💺 **SeatsChart:** An interactive seat mapping and selection solution designed to optimize the user experience during the ticket purchasing process.
 *   🤟 **SinaLibras:** An award-winning assistive technology application focused on digital inclusion.
 
 ---
